@@ -27,6 +27,6 @@ I'm an upcoming Software and video game developer, based in Kiambu, kenya.
 ---
 # Lets Vybe.
 
-[![Spotify](https://https://novatorem-tau-puce.vercel.app/api/spotify)](https://open.spotify.com/user/315ytunp3i3wrqvgyvff2esdj2pi)
+[![Spotify](https://https://novatorem-tau-puce.vercel.app/api/spotify)](https://open.spotify.com/user/315ytunp3i3wrqvgyvff2esdj2pi) [![Spotify]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
