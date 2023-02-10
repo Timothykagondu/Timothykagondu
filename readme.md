@@ -18,6 +18,6 @@ I'm an upcoming Software and video game developer, based in Kiambu, kenya.
 ## ⚡ Gregory issacs to the world. I love Roots and Culture.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Timothykagondu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CHALTICA&label=Stalkers&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
