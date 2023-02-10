@@ -27,6 +27,6 @@ I'm an upcoming Software and video game developer, based in Kiambu, kenya.
 ---
 # Lets Vybe.
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)[![Spotify](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
