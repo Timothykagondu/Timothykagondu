@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=CHALTICA&label=Stalkers&pretty=true)](https://visitcount.itsvg.in)
 
-# Languages I Major:
+# My tools of Mass Destruction:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 # 📊 Stats for Nerds:
@@ -20,6 +20,7 @@ I'm an upcoming Software and video game developer, based in Kiambu, kenya.
 ## 🌱 I’m currently learning Ruby.
 ## 💬 Ask me about, Gaming and Video game development.
 ## ⚡ Gregory issacs to the world. I love Roots and Culture.
+# Me Anytime Anyday
 ![github](https://media2.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.webp?cid=ecf05e47drop3j1s0mc0ztbs0mvyru6f9mu6i5gwr1dadnhc&rid=giphy.webp&ct=g)
 ---
 
