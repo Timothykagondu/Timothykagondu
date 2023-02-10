@@ -9,10 +9,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Timothykagondu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##🔭 I’m currently School
-##🌱 I’m currently learning Ruby
-##💬 Ask me about Gaming and Video game development
-##⚡ Gregory issacs to the world.
+## 🔭 I’m currently School
+## 🌱 I’m currently learning Ruby
+## 💬 Ask me about Gaming and Video game development
+## ⚡ Gregory issacs to the world.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Timothykagondu&icon=0&color=0)](https://visitcount.itsvg.in)
