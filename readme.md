@@ -28,7 +28,8 @@ I'm an upcoming Software and video game developer, based in Kiambu, kenya.
 # Me Anytime Anyday
 ![github](https://media2.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.webp?cid=ecf05e47drop3j1s0mc0ztbs0mvyru6f9mu6i5gwr1dadnhc&rid=giphy.webp&ct=g)
 ---
-# Lets Vybe<br> Add me on spotify.
+# Lets Vybe.
+Add me on spotify
 &nbsp;<div align ="center">
  [![Spotify](https://novatorem-chi-gilt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/315ytunp3i3wrqvgyvff2esdj2pi)
 </div>
