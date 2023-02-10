@@ -20,7 +20,7 @@ I'm an upcoming Software and video game developer, based in Kiambu, kenya.
 ## 🌱 I’m currently learning Ruby.
 ## 💬 Ask me about, Gaming and Video game development.
 ## ⚡ Gregory issacs to the world. I love Roots and Culture.
-
+![github](https://media2.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.webp?cid=ecf05e47drop3j1s0mc0ztbs0mvyru6f9mu6i5gwr1dadnhc&rid=giphy.webp&ct=g)
 ---
 
 
