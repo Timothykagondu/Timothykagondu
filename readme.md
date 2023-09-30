@@ -17,10 +17,10 @@
 
 # Bio
 I'm an upcoming Software and video game developer, based in Kiambu, kenya.
-## 🔭 I’m currently in School.
+## 🔭 I’m currently Free Lancing.
 ## 🌱 I’m currently in love with Mercedes Benz.
 ## 💬 Ask me about, Gaming and Video game development.
-## ⚡ Gregory issacs to the world. I love Roots and Culture.
+## ⚡ Kutafuta pesa is a Must.
 
 
 # Me Anytime Anyday
